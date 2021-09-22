@@ -1,0 +1,61 @@
+h1{
+    color: darksalmon;
+    margin-left: 13cm;
+    font-family: cursive;
+}
+
+img{
+    width: 17cm;
+}
+
+#img{
+    margin-left: 8.5cm;
+    margin-bottom: 2.5cm;
+}
+
+
+div{
+    font-size: 35px ;
+    margin-left: 15.5cm;
+    margin-bottom: 70px;
+    color: rgb(205, 45, 79) !important;
+    width: 100px;
+    display: inline;
+    font-family:  'Stick No Bills';
+}
+
+h2{
+    display: inline; 
+    font-size: 20px;
+    color: darksalmon;
+    font-family: cursive;
+}
+
+#trabajo{
+    margin-left: 15cm;
+}
+
+
+#descanso{
+
+    margin-left: 6.5cm;
+}
+
+
+#descanso-total{
+
+    margin-left: 5.9cm;
+}
+
+button{
+    color: rgb(205, 45, 79) !important;
+    background-color: darksalmon !important;
+    border-color: darksalmon !important;
+    border-radius: 5px;
+    width: 5cm;
+}
+
+#button-inicial{
+    margin-right: 1cm;
+    margin-left: 14cm;
+}
